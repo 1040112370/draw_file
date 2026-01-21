@@ -7,16 +7,16 @@
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;arcSize=20;absoluteArcSize=1;" value="" vertex="1">
           <mxGeometry height="173" width="855" x="100" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;还款计划快照查询&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fad7ac;fontStyle=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;还款计划快照查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="275" y="1176.5" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#cdeb8b;strokeColor=#36393d;strokeWidth=0;glass=0;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报送信息查询&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=1;glass=0;fontColor=default;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报送信息查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="150" y="1176.5" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;贷款情况查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="420" y="1250" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报文入库截图&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fad7ac;fontStyle=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报文入库截图&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="420" y="1176.5" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;合同信息查询&lt;/span&gt;" vertex="1">
