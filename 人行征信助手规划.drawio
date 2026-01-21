@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-18" parent="kcRxssCO3sd06ojYjUzz-17" style="html=1;align=center;verticalAlign=middle;rotatable=0;whiteSpace=wrap;" value="instance2" vertex="1">
           <mxGeometry height="30" relative="1" width="80" as="geometry">
-            <mxPoint x="30" y="10" as="offset" />
+            <mxPoint x="37" y="70" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
