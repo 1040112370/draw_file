@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;arcSize=20;absoluteArcSize=1;" value="" vertex="1">
-          <mxGeometry height="190" width="200" x="900" y="370" as="geometry" />
+          <mxGeometry height="190" width="200" x="370" y="250" as="geometry" />
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-51" parent="kcRxssCO3sd06ojYjUzz-50" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;spacingLeft=15;part=1;resizeWidth=1;" value="Card Title" vertex="1">
           <mxGeometry height="30" relative="1" width="200" as="geometry">
