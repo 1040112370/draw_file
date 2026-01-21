@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
           <mxGeometry height="133" width="600" x="200" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-13" parent="1" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="Instance1" vertex="1">
@@ -60,37 +60,37 @@
             <mxPoint y="150" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;还款计划快照查询&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;还款计划快照查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="350" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报送信息查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="250" y="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;贷款情况查询&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;贷款情况查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="470" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报文入库截图&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报文入库截图&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="470" y="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;合同信息查询&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;合同信息查询&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="580" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;不良短信记录&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;不良短信记录&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="685" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
           <mxGeometry height="40" width="110" x="600" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;查征信记录&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;查征信记录&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="685" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;人行消息任务&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;人行消息任务&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="580" y="1220" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;查征监控告警&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;查征监控告警&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="250" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;本机构征信报告&lt;/span&gt;" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=default;align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;本机构征信报告&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="350" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
