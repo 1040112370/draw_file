@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4" pages="3">
   <diagram name="第 1 页" id="rm1W40tcSRqdFv3ugBiJ">
     <mxGraphModel dx="1366" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -24,6 +24,55 @@
             <mxPoint x="37" y="70" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;arcSize=20;absoluteArcSize=1;" value="" vertex="1">
+          <mxGeometry height="190" width="200" x="360" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-51" parent="kcRxssCO3sd06ojYjUzz-50" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;spacingLeft=15;part=1;resizeWidth=1;" value="Card Title" vertex="1">
+          <mxGeometry height="30" relative="1" width="200" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-52" parent="kcRxssCO3sd06ojYjUzz-50" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" value="Attribute One" vertex="1">
+          <mxGeometry height="24" relative="1" width="200" as="geometry">
+            <mxPoint y="54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-53" parent="kcRxssCO3sd06ojYjUzz-50" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" value="Attribute 02" vertex="1">
+          <mxGeometry height="24" relative="1" width="200" as="geometry">
+            <mxPoint y="78" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-54" parent="kcRxssCO3sd06ojYjUzz-50" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" value="Attribute Three 03" vertex="1">
+          <mxGeometry height="24" relative="1" width="200" as="geometry">
+            <mxPoint y="102" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-55" parent="kcRxssCO3sd06ojYjUzz-50" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" value="Attribute 04" vertex="1">
+          <mxGeometry height="24" relative="1" width="200" as="geometry">
+            <mxPoint y="126" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kcRxssCO3sd06ojYjUzz-56" parent="kcRxssCO3sd06ojYjUzz-50" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" value="Attribute 05" vertex="1">
+          <mxGeometry height="24" relative="1" width="200" as="geometry">
+            <mxPoint y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l7W3K-23t4StUijCEtIS" name="第 2 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nuEDlI7fTgQ6BJRGFaQ5" name="第 3 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
