@@ -93,6 +93,9 @@
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;本机构征信报告&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="420" y="1260" as="geometry" />
         </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
+          <mxGeometry height="40" width="110" x="300" y="1080" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
