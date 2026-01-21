@@ -105,7 +105,7 @@
             <mxPoint x="-9.5" y="-9.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-88" parent="ogXWTQ6Gao4Hw1RsRiwD-85" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;part=1;" value="产品角色" vertex="1">
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-88" parent="ogXWTQ6Gao4Hw1RsRiwD-85" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;part=1;" value="客服角色" vertex="1">
           <mxGeometry height="30" relative="1" width="130" x="1" as="geometry">
             <mxPoint x="-130" y="20" as="offset" />
           </mxGeometry>
