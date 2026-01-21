@@ -79,7 +79,7 @@
           <mxGeometry height="40" width="90" x="685" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
-          <mxGeometry height="40" width="110" x="610" y="1080" as="geometry" />
+          <mxGeometry height="40" width="110" x="860" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;查征信记录&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="685" y="1270" as="geometry" />
@@ -94,13 +94,13 @@
           <mxGeometry height="40" width="110" x="350" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
-          <mxGeometry height="40" width="110" x="675" y="980" as="geometry" />
-        </mxCell>
-        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-34" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="580" y="950" as="geometry" />
+          <mxGeometry height="40" width="110" x="880" y="970" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-35" parent="1" style="swimlane;" value="客诉" vertex="1">
           <mxGeometry height="170" width="200" x="210" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-36" parent="1" style="swimlane;" value="客诉" vertex="1">
+          <mxGeometry height="170" width="200" x="440" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
