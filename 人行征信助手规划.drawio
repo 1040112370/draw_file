@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;arcSize=20;absoluteArcSize=1;" value="" vertex="1">
-          <mxGeometry height="190" width="200" x="810" y="450" as="geometry" />
+          <mxGeometry height="190" width="200" x="890" y="500" as="geometry" />
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-51" parent="kcRxssCO3sd06ojYjUzz-50" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;spacingLeft=15;part=1;resizeWidth=1;" value="Card Title" vertex="1">
           <mxGeometry height="30" relative="1" width="200" as="geometry">
@@ -56,6 +56,15 @@
           <mxGeometry height="24" relative="1" width="200" as="geometry">
             <mxPoint y="150" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;还款计划快照查询&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报送信息查询&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;报送信息查询&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
