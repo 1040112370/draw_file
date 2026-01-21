@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
-          <mxGeometry height="133" width="600" x="200" y="1200" as="geometry" />
+          <mxGeometry height="173" width="590" x="210" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="kcRxssCO3sd06ojYjUzz-13" parent="1" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="Instance1" vertex="1">
           <mxGeometry height="280" width="160" x="120" y="250" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry height="40" width="90" x="685" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
-          <mxGeometry height="40" width="110" x="600" y="1100" as="geometry" />
+          <mxGeometry height="40" width="110" x="610" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;查征信记录&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="685" y="1270" as="geometry" />
@@ -94,7 +94,13 @@
           <mxGeometry height="40" width="110" x="350" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="客诉核查自动化" vertex="1">
-          <mxGeometry height="40" width="110" x="440" y="1100" as="geometry" />
+          <mxGeometry height="40" width="110" x="675" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-34" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ogXWTQ6Gao4Hw1RsRiwD-35" parent="1" style="swimlane;" value="客诉" vertex="1">
+          <mxGeometry height="170" width="200" x="210" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
